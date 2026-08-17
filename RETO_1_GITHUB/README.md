@@ -386,7 +386,7 @@ Para una revisión rápida antes de la sustentación:
 3. Entender completamente `03_SYSTICK_Y_TIEMPOS.md`.
 4. Repasar el flujo de `05_FLUJO_LOGICO.md`.
 5. Practicar las preguntas de `07_SUSTENTACION_QA.md`.
-6. Revisar `08_AUDITORIA_RUBRICA.md` para saber qué puntos están sólidos y cuáles requieren explicación cuidadosa.
+6. Revisar `09_PREGUNTAS_CLAVE` para identificar cómo se usó la IA.
 
 ---
 
